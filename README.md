@@ -1,4 +1,4 @@
-End-to-End Supervised Regression Pipeline & Power BI Analytics
+**End-to-End Supervised Regression Pipeline & Power BI Analytics**
 1. Introduction
 
 This example covers a comprehensive supervised machine learning regression workflow, ranging from raw data pre-processing to the generation of insights using Business Intelligence.
